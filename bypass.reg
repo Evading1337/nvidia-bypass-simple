@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\NvApp\ShadowPlay\FTS]
+"{497B8458-4244-4EE6-BFEA-F3D2BA294F21}"=dword:00000024

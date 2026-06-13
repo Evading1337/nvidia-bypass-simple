@@ -1,0 +1,29 @@
+NVIDIA DISPLAY CONTAINER
+SOFTWARE LICENSE AGREEMENT
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY. BY INSTALLING OR USING
+THE SOFTWARE, YOU AGREE TO THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE. NVIDIA Corporation grants you a non-exclusive,
+   non-transferable license to use the NVIDIA Display Container software
+   ("Software") solely for use with NVIDIA graphics hardware.
+
+2. DESCRIPTION. The Software provides display optimization and capture
+   management services for NVIDIA GeForce Experience and NVIDIA
+   Display Driver.
+
+3. SYSTEM REQUIREMENTS. Windows 10 or later, NVIDIA GeForce GPU with
+   driver version 471.11 or later.
+
+4. INTELLECTUAL PROPERTY. The Software and all intellectual property
+   rights therein are owned by NVIDIA Corporation.
+
+5. DISCLAIMER OF WARRANTY. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT
+   WARRANTY OF ANY KIND.
+
+6. LIMITATION OF LIABILITY. NVIDIA SHALL NOT BE LIABLE FOR ANY DAMAGES.
+
+7. TERMINATION. This agreement terminates automatically if you violate
+   its terms.
+
+Copyright (C) 2026 NVIDIA Corporation. All rights reserved.

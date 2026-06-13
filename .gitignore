@@ -1,0 +1,24 @@
+# Build output
+build/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+
+# Dependencies (cloned by build.bat)
+imgui/
+minhook/
+
+# VS files
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+
+# Temp
+*.log
+*.tmp
