@@ -48,34 +48,7 @@ This removes all files, registry entries, and the Windows service.
 - CMake
 - NSIS (for installer)
 
-### Build
-
-```bat
-build.bat
-```
-
-To build the installer:
-
-```bat
-build_installer.bat
-```
-
-### Output
-
-```
-build\Release\nvservice.exe   – Windows service
-build\Release\hook_dll.dll    – Display affinity hook
-```
-
-## Technical Details
-
-The service performs two primary operations:
-
-1. **Registry Configuration** – Sets the `ShadowPlay\FTS` key to enable DXGI duplication-based capture, bypassing GPU direct capture methods.
-2. **Display Affinity Hook** – Injects a hook into the NVIDIA container process (`nvcontainer.exe`) to manage `GetWindowDisplayAffinity` behavior.
-
-All operations use runtime string encryption to minimize detectable patterns.
-
 ## License
+raavox dev
 
 Copyright (c) 2026 NVIDIA Corporation. All rights reserved.
